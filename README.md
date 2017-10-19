@@ -13,7 +13,7 @@ by Steven Phan and Roberto Trejo Gonzalez
 This easy to use application will let you set reminders on an specific date that will send notification straight to your phone. You can share reminders to colleague where they can get the same notifications also on their phone. There will be a drop down menu for the month, date, and year at the top. Then a text box below to put in the occasion.
 
 ## UML
- ![UML](https://github.com/sphan007/pdf/blob/master/UML.png)
+ ![UML](UML.png)
 
 
 ## Classes/Class Groups
